@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e0432d5517fbbe82a7fb8c3e",
+  "owner": "efhhynrkm",
+  "repo": "page-4ec0dbcadf95281c59381cc4",
+  "title": "Bichon",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4ec0dbcadf95281c59381cc4",
+      "a": "Bichon",
+      "b": "",
+      "entity": "Bichon",
+      "brand": "Bichon",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0f8ec967501f806e21ecb5d20c417196886618dd091c4e46a12349b56fa3bc69",
+      "content": {
+        "keyword1": "Bichon",
+        "keyword2": "",
+        "primary_entity": "Bichon",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Bichon 是面向跨境办公、流媒体与日常加速的官方机场与 VPN 服务，提供清晰套餐、多端客户端下载与订阅导入说明，便于在官网完成选购与使用。",
+          "AI_DESCRIPTION": "Bichon 是面向跨境办公、流媒体与日常加速的官方机场与 VPN 服务，提供清晰套餐、多端客户端下载与订阅导入说明，便于在官网完成选购与使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF7F2;color:#2F241F;line-height:1.75;max-width:100%;overflow-x:hidden}a{color:#B44530;text-decoration:underline}a:hover{color:#8E3323}img,svg{max-width:100%}header{background:#8E3323;color:#FFF7F2;padding:14px 0}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}.brand-mark{font-weight:700;font-size:1.25rem;letter-spacing:.04em}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#FFF7F2;text-decoration:none;font-size:.95rem}nav a:hover{text-decoration:underline}.wrap{max-width:1040px;margin:0 auto;padding:18px 16px}main{padding-bottom:28px}h1{font-size:1.7rem;line-height:1.35;color:#5A2418;margin:8px 0 14px}h2{font-size:1.32rem;color:#8E3323;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #F0D3C8}h3{font-size:1.08rem;color:#5A2418;margin:16px 0 8px}p,li{margin-bottom:10px;word-wrap:break-word}ul,ol{padding-left:1.25em;margin-bottom:12px}.lede{font-size:1.05rem;color:#4A372F;background:#fff;border-left:4px solid #DC684C;padding:12px 14px;margin-bottom:16px}.cols{display:flex;flex-wrap:wrap;gap:14px}.col{flex:1 1 280px;background:#fff;border:1px solid #F0D3C8;padding:14px 16px}.muted{color:#6B564C;font-size:.95rem}.plans{display:flex;flex-wrap:wrap;gap:14px}.plan{flex:1 1 250px;background:#fff;border:1px solid #E8C9BD;padding:16px;display:flex;flex-direction:column;gap:8px}.plan.featured{border:2px solid #DC684C;background:#FFF1EC}.badge{display:inline-block;background:#DC684C;color:#fff;font-size:.78rem;padding:2px 8px;letter-spacing:.03em}.price{font-size:1.4rem;color:#8E3323;font-weight:700}.annual{color:#6B564C;font-size:.92rem}.plan ul{margin:8px 0 0}.cta{display:inline-block;margin-top:8px;background:#DC684C;color:#fff;text-decoration:none;padding:10px 14px;min-height:44px;line-height:24px}.cta:hover{background:#B44530;color:#fff}#faq{background:#FFF1EC;border:1px solid #F0D3C8;padding:16px;margin-top:8px}#faq h2{border-bottom-color:#DC684C}details{background:#fff;border:1px solid #E8C9BD;padding:12px 14px;margin:10px 0}summary{font-weight:700;color:#8E3323;font-size:1.02rem}details p{margin-top:8px}.dl-grid{display:flex;flex-wrap:wrap;gap:10px}.dl-item{flex:1 1 200px;background:#fff;border:1px solid #F0D3C8;padding:12px}footer{background:#3A2E28;color:#F7E6DF;padding:22px 0;font-size:.92rem}footer a{color:#FFD2C4}footer h2,footer h3{color:#FFD2C4;border:0;margin-top:8px}.foot-grid{display:flex;flex-wrap:wrap;gap:16px}.foot-grid section{flex:1 1 220px}.ad-box{background:#4A372F;padding:12px;margin:8px 0;border:1px dashed #C48B7A}#sitemap ul{list-style:none;padding-left:0}#sitemap li{margin-bottom:6px}@media (max-width:640px){h1{font-size:1.45rem}nav{width:100%}.plan,.col{flex:1 1 100%}}</style><header><div class=\"wrap\"><div class=\"brand-mark\">Bichon 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">订阅套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><h1>Bichon 官方机场与 VPN 网络加速服务</h1><p class=\"lede\">Bichon 官网提供机场订阅、VPN 加速器与多端客户端下载入口。页面说明套餐流量、设备数量、节点用途与导入步骤，帮助你按场景选择基础版、旗舰版或团队版，并在常用设备上完成连接。</p><section id=\"intro\"><h2>Bichon 品牌简介</h2><p>Bichon 是面向个人与小团队的网络加速品牌，同时覆盖机场订阅与 VPN 客户端使用方式。品牌名称取轻盈、稳定之意，产品侧重可预期的线路质量、清楚的流量计量和可重复的配置流程，而不是堆砌无法核验的宣传数字。</p><p>作为 Bichon 官方网站，本页只描述可执行的服务内容：如何选套餐、如何下载客户端、如何导入订阅、以及在办公、流媒体、游戏与差旅中分别该看哪些指标。Bichon 机场节点按地区与用途分组，Bichon VPN 客户端则把同一份订阅映射到 Windows、macOS、Android、iOS 与常见代理工具。</p><div class=\"cols\"><article class=\"col\"><h3>官方身份与获取路径</h3><p>请通过本站导航完成了解与下载。订阅在购买后会生成专属链接，用于各客户端导入。不要在来源不明的转发页填写账号。官方下载入口集中在<a href=\"#download\">客户端下载</a>一节，仅提供系统名称与对应锚点，避免第三方改装包。</p></article><article class=\"col\"><h3>线路与性能原则</h3><p>Bichon 将普通线路与 IPLC 专线分开标注。日常网页与即时通讯走普通节点池即可；视频解锁与对延迟敏感的游戏，建议使用旗舰版中的专线优化节点。延迟、丢包会随时段变化，页面给出的是选路方法，而不是瞬时测速成绩。</p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><p>同一份 Bichon 订阅可以按场景切换节点，不必为每个应用单独购买工具。下面四类是最常见的实际用法。</p><div class=\"cols\"><article class=\"col\"><h3>跨境会议与协作</h3><p>远程会议、代码仓库与设计稿同步更看重稳定而非峰值带宽。建议固定一台主力设备使用旗舰版，选择距离会议对端更近的节点，并避免在同一网络上并行超大下载。</p></article><article class=\"col\"><h3>流媒体与资料检索</h3><p>基础版可覆盖常见网页与基础流媒体；需要全节点原生解锁时选择旗舰版。若片源地区切换失败，优先更换同区域备用节点，而不是反复重装客户端。</p></article><article class=\"col\"><h3>游戏加速</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对延迟抖动敏感的对战与更新下载。请把游戏加速与大流量下载错开，以免占满当月流量包。</p></article><article class=\"col\"><h3>差旅与小团队共用</h3><p>出差切换酒店网络时，先更新订阅再连接。多人同时在线请核对套餐设备上限：基础版 3 台、旗舰版 5 台、团队版 20 台。企业路由与专属客户经理仅团队版提供。</p></article></div></section><section id=\"plans\"><h2>Bichon 机场订阅套餐</h2><p>价格按自然月计费，年付为 10 个月价格。流量为每月额度，周期结束未使用部分不累计。以下三档为当前官网在售方案。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article></div><p class=\"muted\">选择建议：单人轻度浏览选基础版；需要流媒体解锁或游戏专线选旗舰版；工作室多设备与定制路由选团队版。</p></section><section id=\"nodes\"><h2>节点组织方式</h2><p>Bichon 机场节点按地区与用途分组，便于在客户端里快速筛选。常规入口覆盖香港、东京、新加坡、首尔与洛杉矶；旗舰版与团队版另含 IPLC 专线及高带宽 VIP 节点。名称中带“流媒体”或“Game”的条目优先用于对应场景，通用节点则留给网页与即时通讯。</p><p>若某一入口超时，先切换同地区备用节点，再检查本地 DNS 与系统时间。持续失败时通过旗舰版优先工单或团队版客户经理反馈节点名称与发生时段，便于线路侧核对，而不是反复更换第三方规则文件。</p></section><section id=\"guide\"><h2>操作说明：从订阅到连上节点</h2><p>Bichon VPN 与机场订阅共用同一套购买与导入流程。按下列顺序操作，可减少“能打开客户端却没有节点”的情况。</p><h3>1. 确认套餐与设备数量</h3><p>先数清需要同时在线的手机、电脑和平板。超过套餐上限时，后接入的设备会无法握手。个人用户通常旗舰版足够；共用出口的小团队直接看团队版。</p><h3>2. 在官网完成订阅</h3><p>选择月付或年付后，账户中心会生成订阅链接。请复制完整链接，不要截断参数。该链接用于 Clash、Surge 及 Bichon 官方客户端导入，等同于你的线路授权。</p><h3>3. 安装对应客户端</h3><p>前往<a href=\"#download\">客户端下载</a>，仅安装与系统匹配的版本。Windows 与 macOS 使用官方桌面端或兼容核心；Android 与 iOS 使用移动端。安装完成后先不要急于连网，确认订阅已导入。</p><h3>4. 导入订阅并选择节点</h3><p>在客户端粘贴订阅链接，执行更新。列表出现地区分组后，网页场景选普通节点，视频选解锁节点，游戏选 IPLC。连接成功后再打开目标应用，避免应用抢先占用旧网络。</p><h3>5. 日常维护</h3><p>更换套餐、重置链接或设备超限时，在所有终端执行一次订阅更新。长期不用的设备请在客户端删除配置，以免占用同时在线名额。</p></section><section id=\"download\"><h2>Bichon 客户端下载</h2><p>以下为 Bichon 官方下载对应的系统入口。本页为静态说明，下载按钮指向页面锚点，便于在官网内核对版本说明后再获取安装包。请勿从网盘二次分发文件中安装。</p><div class=\"dl-grid\"><article class=\"dl-item\"><h3>Windows</h3><p>适用于 Windows 10 及以上。安装后导入订阅，系统代理或 TUN 模式按应用需求选择。</p><p><a class=\"cta\" href=\"#download\">官网下载 Windows 客户端</a></p></article><article class=\"dl-item\"><h3>macOS</h3><p>适用于近期 macOS。若系统拦截未签名安装包，请在系统设置中允许来自官网的应用。</p><p><a class=\"cta\" href=\"#download\">官网下载 macOS 客户端</a></p></article><article class=\"dl-item\"><h3>Android</h3><p>安装官方 APK 或兼容核心，开启VPN权限后更新订阅。建议关闭省电限制以免后台断连。</p><p><a class=\"cta\" href=\"#download\">官网下载 Android 客户端</a></p></article><article class=\"dl-item\"><h3>iOS</h3><p>通过官方指引安装描述文件或兼容客户端，首次连接需允许VPN配置。</p><p><a class=\"cta\" href=\"#download\">查看 iOS 官方下载说明</a></p></article></div><p class=\"muted\">亦兼容常见订阅格式，可在 Clash、Surge 等工具中粘贴同一链接。规则以客户端默认为准，无需叠加来路不明的外部规则。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下问题按实际开通顺序排列。每条均展开显示完整回答，便于对照套餐与客户端操作。</p><details><summary>Bichon 是机场还是 VPN？和梯子网络加速有什么关系？</summary><p>Bichon 同时提供机场订阅与 VPN 客户端用法。机场侧负责节点与流量套餐，VPN 侧负责在设备上建立加密通道。所谓梯子或网络加速，指的是把设备流量导向合适节点；你在官网购买的是可导入的订阅，而不是一次性口头口令。</p></details><details><summary>如何在 Bichon 官网完成订阅并下载客户端？</summary><p>先在套餐区选定基础版、旗舰版或团队版，完成月付或年付后复制订阅链接。再到客户端下载一节安装对应系统版本，打开应用粘贴链接并更新。连上节点后即可按场景切换。若列表为空，通常是链接复制不完整或设备数已满。</p></details><details><summary>三款套餐的流量、设备数和线路有何区别？</summary><p>基础版每月 100GB、3 台设备、基础流媒体与普通节点池，适合轻度浏览。旗舰版每月 300GB、5 台设备，含全节点原生流媒体解锁、IPLC 游戏优化与 7x24 优先工单。团队版每月 1000GB、20 台设备，另加 VIP 高带宽节点、企业定制路由和专属客户经理。年付均为 10 个月价格。</p></details><details><summary>流媒体解锁失败或游戏延迟高应该怎样处理？</summary><p>先确认套餐权限：基础版只承诺基础流媒体；全节点原生解锁在旗舰版与团队版。解锁失败时改用同地区备用节点，并避免浏览器插件与系统代理叠加。游戏请使用标注 IPLC 的条目，关闭占用带宽的下载，再观察抖动是否下降。</p></details><details><summary>客户端显示连接成功但打不开网页，怎么排查？</summary><p>按顺序检查：订阅是否已更新、系统时间是否准确、是否同时开启多个代理、DNS 是否被其他软件接管。Windows 可切换系统代理与 TUN；手机需检查省电策略。若仅个别网站失败，多半是节点侧分流规则，可换通用节点对比。</p></details><details><summary>年付和月付怎么选？流量用完怎么办？</summary><p>使用节奏稳定、至少会用满半年时，年付更省。短期试用或不确定设备数时选月付。流量按月重置、不结转。接近额度时可降低高清播放、错峰更新游戏，或在下个账期升级到旗舰版、团队版。本页不提供自动超售，额度用尽后需等待重置或变更套餐。</p></details><details><summary>团队版如何分配给同事，是否需要每人一个账号？</summary><p>团队版按设备数而非人头计费，20 台同时在线可覆盖工作室电脑与手机。可将同一订阅导入多台设备，或由客户经理协助做企业定制路由，把办公网段与个人设备分开。不要把订阅链接发到公开群组。人员离职时更新或重置链接即可收回访问。</p></details></section><section id=\"notice\"><h2>使用边界与合规提示</h2><p>请在当地法律法规允许的范围内使用 Bichon 机场与 Bichon VPN。服务用于改善跨境访问质量、保护公共网络上的传输隐私，不用于入侵、盗取数据或绕过明确禁止的系统。账号仅限购方使用，转售或公开分享订阅可能导致链接被重置。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"foot-grid\"><section id=\"ads\"><h2>展示广告</h2><div class=\"ad-box\"><h3>企业定制路由咨询</h3><p>团队版用户可预约专属客户经理，沟通办公网分流与设备配额。咨询入口见<a href=\"#plans\">订阅套餐</a>。</p></div><div class=\"ad-box\"><h3>多端客户端同步指南</h3><p>同一订阅在电脑与手机间的导入顺序，详见<a href=\"#guide\">操作说明</a>与<a href=\"#download\">官方下载</a>。</p></div></section><section><h2>友情链接</h2><ul><li><a href=\"#\">网络配置手册</a></li><li><a href=\"#\">移动端代理入门</a></li><li><a href=\"#\">远程协作工具箱</a></li><li><a href=\"#\">DNS 排查笔记</a></li><li><a href=\"#\">小团队带宽规划</a></li></ul></section><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#top\">首页标题</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">订阅套餐</a></li><li><a href=\"#nodes\">节点组织</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">展示广告</a></li></ul></section></div><p class=\"muted\">Bichon 官方网站 · 机场订阅与 VPN 加速器客户端下载说明 · 版权所有</p></div></footer>",
+          "hash": "57b54d970dc72944a4ef04de1a3ab2c5bb9662ac2c3570ff2843aaca6a373efb",
+          "seo": {
+            "title": "Bichon 官网 | VPN 梯子网络加速与机场订阅客户端下载",
+            "keywords": "Bichon,Bichon机场,Bichon VPN,Bichon官网,机场订阅,VPN加速器,梯子网络加速,客户端下载,官方下载",
+            "description": "Bichon 是面向跨境办公、流媒体与日常加速的官方机场与 VPN 服务，提供清晰套餐、多端客户端下载与订阅导入说明，便于在官网完成选购与使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "colfp.cn",
+    "host": "p-10cf90bd47.colfp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "colfp.cn",
+      "url": "https://colfp.cn/",
+      "label": "追云(KAXIN)",
+      "apex": "colfp.cn",
+      "kind": null,
+      "identity": "qjcuyyd/page-dfdd6fba65f4863a20e5f8ea"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cf8a79cb16f84a8b023dac0c0e61d453d576bfceb04fab426ef2a2fda951cf81",
+    "sitemap.xml": "bcbccc75bff251547e9d74d4aa3d0ec80970b29311a2f8ab6847c603a8751654",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "114f33eba3c285f1ceafc2b5408f5a58e601313dd8373a6a042b2cf5e9ed2eb0",
+    "robots.txt": "6861331b0e3cf1c654d8c35b8249ae119621eaddaf46e8120e302688358bbfdf",
+    "4ac11a2b0db600fba6a3edd121dca6c5.txt": "237883cfab739c7b4342b6b57c19c74a035b8511897fc2b93f75025ec4f49037"
+  },
+  "revision": "bdd0bb95114936a304c4ff6ba541831b8b3e38e920edcd18393c2fbb5362a05b"
+}
